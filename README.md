@@ -8,6 +8,7 @@ Accessibility and inclusivity are central to the design, ensuring that children 
 can effectively use the system.
 Parents or guardians are able to monitor progress, receive notifications, and manage settings securely,
 while children interact with a simplified, friendly interface.
+
 The application must include AI-driven features that enhance learning:
 • An AI-assisted learning coach that provides encouragement and guidance
 • Adaptive difficulty that responds to the child’s progress
